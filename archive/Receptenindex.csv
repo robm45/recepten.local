@@ -1,0 +1,9 @@
+recepten_id;recept_naam;personen;bereidingstijd;keukengerei_id;hoofdingredient_id;gerechttype_id;mapnummer;hoesnummer
+1;Spaanse tuinboontjes met gebakken kriel;4;00:00:25;1;1;1;1;1
+2;Shoarma ovenschotel;4;01:00:25;1;1;1;1;1
+3;Varkensvlees à la te Spenke;4;02:00:25;1;1;1;1;2
+4;Tortellini bolognese;4;03:00:25;1;1;1;1;2
+5;Varkensvlees à la te Spenke;4;04:00:25;1;1;1;1;3
+6;Varkensmedaillons in paprikaroomsaus;4;05:00:25;1;1;1;1;3
+7;Gevulde paprika's;4;06:00:25;1;1;1;1;4
+8;Mexicaanse plaattaart;4;07:00:25;1;1;1;1;4
