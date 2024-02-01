@@ -27,7 +27,7 @@
       <div class="hero-container">
         <div class="hero-text">
           <h1>Onze Recepten </h1>
-          <h4>Alle recepten</h4>
+          <h4>Alleen recepten</h4>
         </div>
       </div>
     </header>
