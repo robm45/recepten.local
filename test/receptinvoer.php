@@ -51,8 +51,9 @@
             <button type="submit" class="btn">
                 Submit
             </button>    
-        </form>             
+        </form>    
+        <script src="./scripts/header.js"></script>         
     </main>
-    <script src="./scripts/header.js"></script>
+
 </body>
 </html>
